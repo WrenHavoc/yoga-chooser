@@ -8,7 +8,7 @@ I'm a software dev, not a gym teacher so the information this software provides 
 please do not use this program for medical advice, I'm not a doctor either. 
 If you dislocate your shoulder because you messed up a pose, it's not my fault.
 
-# ----------[Version 1.0.0-b.1]----------
+# ----------[Version 1.0.0]----------
 
 version notes:
 I might never actually update this. This is not at all something I would consider a full release.
@@ -19,7 +19,7 @@ This is an XMPP address, not an email address. If you try to email it, nothing w
 you can add new poses by editing the files in the poses folder.
 Just add a new item to the list and it should work automatically.
 
-this is the barebones, basic version of the program. It has gone through alpha testing but not beta testing. 
+this is the barebones, basic version of the program. 
 
 (possible) future features:
   - full support for windows and mac

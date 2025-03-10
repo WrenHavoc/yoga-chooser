@@ -6,9 +6,9 @@ from os import system
 
 # link pose files
 list_arm = open("./poses/arms.txt").readlines() # reads arms.txt in poses and turns it into a list called list_arm
-list_chest = open(".poses/chest.txt").readlines()
-list_legs = open(".poses/legs.txt").readlines()
-list_back = open(".poses/back.txt").readlines()
+list_chest = open("./poses/chest.txt").readlines()
+list_legs = open("./poses/legs.txt").readlines()
+list_back = open("./poses/back.txt").readlines()
 
 # display menu
 def display_menu(menu):

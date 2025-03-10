@@ -17,18 +17,22 @@ def display_menu(menu):
 
 # arms
 def Arms(): # creates a function called 'Arms'
+    os.system("clear")
     print(random.choice(list_arm)) # picks a random item from list_arm
 
 # chest
 def Chest():
+    os.system("clear")
     print(random.choice(list_chest))
 
 # legs
 def Legs():
+    os.system("clear")
     print(random.choice(list_legs))
 
 # back
 def Back():
+    os.system("clear")
     print(random.choice(list_back))
 
 # exit program
